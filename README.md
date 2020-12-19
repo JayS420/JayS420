@@ -9,4 +9,3 @@ Here are some ideas to get you started:
 - 💬 Skills ... Python, ML, DL, Tensorflow, Keras, OpenCV, Herku, GCP
 - 📫 Ask me about: ... Anything
 - ⚡ Fun fact: ... Thomas Edison, who invented the lightbulb, was afraid of the dark.
--->
