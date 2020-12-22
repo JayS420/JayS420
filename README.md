@@ -10,6 +10,6 @@ Here are some ideas to get you started:
 - 📫 Ask me about: ... Anything
 - ⚡ Fun fact: ... Thomas Edison, who invented the lightbulb, was afraid of the dark.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JayS420&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
