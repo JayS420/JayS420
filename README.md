@@ -11,5 +11,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ... Thomas Edison, who invented the lightbulb, was afraid of the dark.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JayS420&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![JayS420 wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JayS420)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
