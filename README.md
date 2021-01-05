@@ -6,7 +6,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning ... Computer Vision
 - 👯 I’m looking to collaborate on ... Machine Learning, Deep Learning
 - 🤔 I’m looking for help with ... Internships and Jobs in Data Science
-- 💬 Skills ... Python, ML, DL, Tensorflow, Keras, Flask, OpenCV, Herku, GCP
+- 💬 Skills ... Python, ML, DL, Tensorflow, Keras, Flask, OpenCV, Heroku, GCP
 - 📫 Ask me about: ... Anything
 - ⚡ Fun fact: ... Thomas Edison, who invented the lightbulb, was afraid of the dark.
 
